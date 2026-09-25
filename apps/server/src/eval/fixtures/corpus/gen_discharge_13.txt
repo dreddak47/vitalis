@@ -1,0 +1,14 @@
+LAKESIDE MEDICAL CENTER
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1055          Age/Sex: 79/F
+Admission: 2026-08-02       Discharge: 2026-08-02
+FINAL DIAGNOSIS:
+1. Osteoarthritis, ongoing management
+2. Type 2 Diabetes Mellitus
+3. New Ibuprofen allergy (hives on exposure)
+DISCHARGE MEDICATIONS:
+1. Tab Sumatriptan 50 mg — SOS
+2. Tab Losartan 100 mg — 1-0-0
+3. Tab Montelukast 10 mg — 0-0-1
+VITALS AT DISCHARGE: weight 84 kg
+FOLLOW-UP: As advised by treating physician.

@@ -1,0 +1,54 @@
+{
+  "documentFile": "gen_lab_06.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "Hemoglobin A1c"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 3
+    },
+    {
+      "path": "labResults[0].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "BUN"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 10
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "Potassium"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 2.5
+    },
+    {
+      "path": "labResults[2].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "AST"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 41
+    },
+    {
+      "path": "labResults[4].analyte",
+      "expected": "Platelet Count"
+    },
+    {
+      "path": "labResults[4].value",
+      "expected": 220
+    }
+  ]
+}

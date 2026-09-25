@@ -1,0 +1,34 @@
+{
+  "documentFile": "gen_note_17.txt",
+  "kind": "doctor_note",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "Type 2 Diabetes Mellitus"
+    },
+    {
+      "path": "conditions[0].status",
+      "expected": "active"
+    },
+    {
+      "path": "vitals[0].value",
+      "expected": 99.8
+    },
+    {
+      "path": "medications[0].drugName",
+      "expected": "Glimepiride"
+    },
+    {
+      "path": "medications[0].dose.amount",
+      "expected": 1
+    },
+    {
+      "path": "allergies[0].substance",
+      "expected": "Peanuts"
+    },
+    {
+      "path": "allergies[0].reaction",
+      "expected": "anaphylaxis"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "documentFile": "gen_lab_08.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "ALT"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 6
+    },
+    {
+      "path": "labResults[0].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "Potassium"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 2.5
+    },
+    {
+      "path": "labResults[1].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "TSH"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 5
+    },
+    {
+      "path": "labResults[2].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "Total Cholesterol"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 151
+    },
+    {
+      "path": "labResults[4].analyte",
+      "expected": "AST"
+    },
+    {
+      "path": "labResults[4].value",
+      "expected": 58
+    },
+    {
+      "path": "labResults[4].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[5].analyte",
+      "expected": "LDL Cholesterol"
+    },
+    {
+      "path": "labResults[5].value",
+      "expected": 87
+    }
+  ]
+}

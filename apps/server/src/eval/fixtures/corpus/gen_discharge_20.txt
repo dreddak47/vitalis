@@ -1,0 +1,13 @@
+GREENFIELD REGIONAL MEDICAL CENTER
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1062          Age/Sex: 30/M
+Admission: 2025-02-13       Discharge: 2025-02-13
+FINAL DIAGNOSIS:
+1. Chronic Kidney Disease Stage 3, ongoing management
+2. Iron Deficiency Anemia
+DISCHARGE MEDICATIONS:
+1. Tab Glimepiride 2 mg — OD
+2. Tab Pantoprazole 40 mg — 1-0-0
+3. Tab Amoxicillin 500 mg — TID
+VITALS AT DISCHARGE: BP 146/98 mmHg
+FOLLOW-UP: As advised by treating physician.

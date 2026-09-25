@@ -1,0 +1,10 @@
+METROPOLIS PATHLABS — FINAL REPORT
+Patient: Synthetic Patient 1000       Collected: 2025-04-09
+
+Test                       Result      Units      Reference          Flag
+LDL Cholesterol          120        mg/dL      < 100              H
+HDL Cholesterol          44         mg/dL      > 40               
+Triglycerides            129        mg/dL      < 150              
+Total Cholesterol        126        mg/dL      < 200              
+
+End of report.

@@ -1,0 +1,42 @@
+{
+  "documentFile": "gen_lab_02.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "WBC Count"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 7.8
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "Free T4"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 1.8
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "Sodium"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 174
+    },
+    {
+      "path": "labResults[2].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "HDL Cholesterol"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 53
+    }
+  ]
+}

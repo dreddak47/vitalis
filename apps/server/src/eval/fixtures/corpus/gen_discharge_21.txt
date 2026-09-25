@@ -1,0 +1,11 @@
+HARBORVIEW HOSPITAL
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1063          Age/Sex: 59/F
+Admission: 2026-01-13       Discharge: 2026-01-13
+FINAL DIAGNOSIS:
+1. Iron Deficiency Anemia, ongoing management
+2. Chronic Kidney Disease Stage 3
+DISCHARGE MEDICATIONS:
+1. Tab Glimepiride 2 mg — OD
+VITALS AT DISCHARGE: spo2 93 %
+FOLLOW-UP: As advised by treating physician.

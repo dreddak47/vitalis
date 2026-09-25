@@ -1,0 +1,10 @@
+{
+  "documentFile": "claim_01.txt",
+  "kind": "insurance_claim",
+  "fields": [
+    { "path": "conditions[0].name", "expected": "Type 2 diabetes mellitus" },
+    { "path": "conditions[0].icd10", "expected": "E11.9" },
+    { "path": "conditions[1].name", "expected": "Essential hypertension" },
+    { "path": "conditions[1].icd10", "expected": "I10" }
+  ]
+}

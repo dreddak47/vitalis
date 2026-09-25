@@ -1,0 +1,22 @@
+{
+  "documentFile": "gen_claim_01.txt",
+  "kind": "insurance_claim",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "Chronic Kidney Disease Stage 3"
+    },
+    {
+      "path": "conditions[0].icd10",
+      "expected": "N18.3"
+    },
+    {
+      "path": "conditions[1].name",
+      "expected": "Osteoarthritis"
+    },
+    {
+      "path": "conditions[1].icd10",
+      "expected": "M19.90"
+    }
+  ]
+}

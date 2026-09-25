@@ -1,0 +1,9 @@
+METRO DIAGNOSTIC IMAGING
+ULTRASOUND ABDOMEN — REPORT
+
+Patient: Synthetic Patient 1093            Study Date: 2026-09-28
+Referred by: Dr. R. Fernandes
+
+FINDINGS: hepatic steatosis, liver span 13.4 cm. Remaining study unremarkable.
+
+IMPRESSION: Findings suggestive of hepatic steatosis. Recommend clinical correlation.

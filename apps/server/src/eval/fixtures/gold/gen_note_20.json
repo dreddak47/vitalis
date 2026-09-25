@@ -1,0 +1,30 @@
+{
+  "documentFile": "gen_note_20.txt",
+  "kind": "doctor_note",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "Essential Hypertension"
+    },
+    {
+      "path": "conditions[0].status",
+      "expected": "suspected"
+    },
+    {
+      "path": "vitals[0].value",
+      "expected": 117
+    },
+    {
+      "path": "medications[0].drugName",
+      "expected": "Folic Acid"
+    },
+    {
+      "path": "medications[0].dose.amount",
+      "expected": 5
+    },
+    {
+      "path": "vitals[0].valueSecondary",
+      "expected": 87
+    }
+  ]
+}

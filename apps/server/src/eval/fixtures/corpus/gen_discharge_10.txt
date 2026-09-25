@@ -1,0 +1,12 @@
+RIVERSIDE GENERAL HOSPITAL
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1052          Age/Sex: 75/F
+Admission: 2025-08-02       Discharge: 2025-08-02
+FINAL DIAGNOSIS:
+1. Major Depressive Disorder, ongoing management
+2. Type 2 Diabetes Mellitus
+3. New Peanuts allergy (anaphylaxis on exposure)
+DISCHARGE MEDICATIONS:
+1. Tab Sumatriptan 50 mg — SOS
+VITALS AT DISCHARGE: heart rate 100 bpm
+FOLLOW-UP: As advised by treating physician.

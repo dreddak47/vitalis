@@ -1,0 +1,10 @@
+Dr. A. Iyer — Follow-up Visit Note
+Date: 2025-01-20                Patient: Synthetic Patient 1082 (24/M)
+
+S: Patient reports symptoms consistent with type 2 diabetes mellitus. Reports anaphylaxis after taking Peanuts previously.
+
+O: temperature 99.8 F. Exam otherwise unremarkable.
+
+A: Type 2 Diabetes Mellitus — active
+
+P: Start Glimepiride 1 mg OD. Follow up in 4 weeks.

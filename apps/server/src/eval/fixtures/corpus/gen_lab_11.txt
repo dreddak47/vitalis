@@ -1,0 +1,10 @@
+MERIDIAN LABS — FINAL REPORT
+Patient: Synthetic Patient 1010       Collected: 2026-09-13
+
+Test                       Result      Units      Reference          Flag
+Fasting Glucose          73         mg/dL      70 - 99            
+Creatinine               0.6        mg/dL      0.6 - 1.3          
+WBC Count                5.1        x10^3/uL   4 - 11             
+HDL Cholesterol          48         mg/dL      > 40               
+
+End of report.

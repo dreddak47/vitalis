@@ -1,0 +1,36 @@
+(scanned handwritten prescription — heavy stroke overlap, low contrast)
+
+Rx
+1. T. Dolo 650 — 1-1-1 x 5 days (SOS fever)
+2. T. Pan 40 — 1-0-0 before breakfast x 5 days
+
+� illegible signature �
+
+```vitalis-extraction
+{
+  "documentKind": "prescription",
+  "medications": [
+    { "drugName": { "value": "Dolo", "confidence": 0.7, "evidence": "T. Dolo 650" },
+      "dose": { "value": { "amount": 650, "unit": "mg" }, "confidence": 0.75, "evidence": "650" },
+      "frequency": { "value": "1-1-1", "confidence": 0.8, "evidence": "1-1-1" },
+      "route": { "value": null, "confidence": 0.2, "evidence": null },
+      "prescriber": { "value": null, "confidence": 0.1, "evidence": "illegible signature" },
+      "startDate": { "value": null, "confidence": 0.2, "evidence": null },
+      "endDate": { "value": null, "confidence": 0.4, "evidence": "x 5 days (no date on Rx)" },
+      "instructions": { "value": "SOS fever", "confidence": 0.75, "evidence": "(SOS fever)" } },
+    { "drugName": { "value": "Pantoprazole", "confidence": 0.55, "evidence": "T. Pan 40" },
+      "dose": { "value": { "amount": 40, "unit": "mg" }, "confidence": 0.6, "evidence": "40" },
+      "frequency": { "value": "1-0-0", "confidence": 0.8, "evidence": "1-0-0" },
+      "route": { "value": null, "confidence": 0.2, "evidence": null },
+      "prescriber": { "value": null, "confidence": 0.1, "evidence": null },
+      "startDate": { "value": null, "confidence": 0.2, "evidence": null },
+      "endDate": { "value": null, "confidence": 0.4, "evidence": null },
+      "instructions": { "value": "before breakfast", "confidence": 0.7, "evidence": "before breakfast" } }
+  ],
+  "conditions": [],
+  "labResults": [],
+  "vitals": [],
+  "allergies": [],
+  "summary": { "value": "Short course of antipyretic and PPI for febrile illness.", "confidence": 0.6, "evidence": "Rx block" }
+}
+```

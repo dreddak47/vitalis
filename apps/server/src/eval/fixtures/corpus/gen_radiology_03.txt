@@ -1,0 +1,9 @@
+SUMMIT RADIOLOGY
+CT ABDOMEN — REPORT
+
+Patient: Synthetic Patient 1091            Study Date: 2026-02-20
+Referred by: Dr. K. Sharma
+
+FINDINGS: cholelithiasis, largest calculus 5 mm. Remaining study unremarkable.
+
+IMPRESSION: Findings suggestive of cholelithiasis. Recommend clinical correlation.

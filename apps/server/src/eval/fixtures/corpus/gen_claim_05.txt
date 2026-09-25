@@ -1,0 +1,12 @@
+SUNGUARD HEALTH INSURANCE
+CLAIM FORM — SECTION B: DIAGNOSIS & PROCEDURE
+
+Claimant: Synthetic Patient 1139                Claim No: SG-2025-1120
+Date of Service: 2026-08-02
+
+Diagnosis Code (ICD-10): M19.90 — Osteoarthritis
+
+Procedure: Office visit, established patient (CPT 99215)
+
+Provider: St. Anne's Hospital
+Authorized Signature: ______________________

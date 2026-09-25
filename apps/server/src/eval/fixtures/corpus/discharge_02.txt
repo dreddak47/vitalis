@@ -1,0 +1,20 @@
+LAKESIDE MEDICAL CENTER
+DISCHARGE SUMMARY
+
+Patient: Sample Patient G          Age/Sex: 45/F
+Admission: 2026-01-05       Discharge: 2026-01-08
+
+PRINCIPAL DIAGNOSIS: Acute Cholecystitis, status post laparoscopic
+cholecystectomy. Resolved.
+
+SECONDARY DIAGNOSIS: Hypothyroidism (pre-existing, stable).
+
+DISCHARGE MEDICATIONS:
+1. Tab Levothyroxine 75 mcg — once daily, empty stomach
+2. Cap Amoxicillin-Clavulanate 625 mg — 1-1-1 x 5 days
+3. Tab Paracetamol 650 mg — SOS pain, max 4/day
+
+VITALS AT DISCHARGE: BP 118/76 mmHg, HR 72 bpm, Temp 98.4 F
+
+Wound care instructions given. Follow up with surgery in 10 days for
+suture removal.

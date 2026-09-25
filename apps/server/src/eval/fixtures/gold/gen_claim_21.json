@@ -1,0 +1,14 @@
+{
+  "documentFile": "gen_claim_21.txt",
+  "kind": "insurance_claim",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "Hypothyroidism"
+    },
+    {
+      "path": "conditions[0].icd10",
+      "expected": "E03.9"
+    }
+  ]
+}

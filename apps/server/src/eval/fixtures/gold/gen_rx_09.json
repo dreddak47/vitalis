@@ -1,0 +1,62 @@
+{
+  "documentFile": "gen_rx_09.txt",
+  "kind": "prescription",
+  "fields": [
+    {
+      "path": "medications[0].drugName",
+      "expected": "Amoxicillin"
+    },
+    {
+      "path": "medications[0].dose.amount",
+      "expected": 500
+    },
+    {
+      "path": "medications[0].dose.unit",
+      "expected": "mg"
+    },
+    {
+      "path": "medications[0].frequency",
+      "expected": "TID"
+    },
+    {
+      "path": "medications[0].instructions",
+      "expected": "after food"
+    },
+    {
+      "path": "medications[1].drugName",
+      "expected": "Sertraline"
+    },
+    {
+      "path": "medications[1].dose.amount",
+      "expected": 50
+    },
+    {
+      "path": "medications[1].dose.unit",
+      "expected": "mg"
+    },
+    {
+      "path": "medications[1].frequency",
+      "expected": "1-0-0"
+    },
+    {
+      "path": "medications[2].drugName",
+      "expected": "Amlodipine"
+    },
+    {
+      "path": "medications[2].dose.amount",
+      "expected": 10
+    },
+    {
+      "path": "medications[2].dose.unit",
+      "expected": "mg"
+    },
+    {
+      "path": "medications[2].frequency",
+      "expected": "1-0-0"
+    },
+    {
+      "path": "medications[0].prescriber",
+      "expected": "Dr. J. Okafor"
+    }
+  ]
+}

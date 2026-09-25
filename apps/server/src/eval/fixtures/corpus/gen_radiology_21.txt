@@ -1,0 +1,9 @@
+METRO DIAGNOSTIC IMAGING
+CT ABDOMEN — REPORT
+
+Patient: Synthetic Patient 1109            Study Date: 2025-09-04
+Referred by: Dr. Priya Nair
+
+FINDINGS: cholelithiasis, largest calculus 5 mm. Remaining study unremarkable.
+
+IMPRESSION: Findings suggestive of cholelithiasis. Recommend clinical correlation.

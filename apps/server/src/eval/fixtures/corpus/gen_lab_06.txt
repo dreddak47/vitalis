@@ -1,0 +1,11 @@
+SUNRISE CLINICAL LABORATORY — FINAL REPORT
+Patient: Synthetic Patient 1005       Collected: 2026-04-15
+
+Test                       Result      Units      Reference          Flag
+Hemoglobin A1c           3          %          4 - 5.6            L
+BUN                      10         mg/dL      7 - 20             
+Potassium                2.5        mmol/L     3.5 - 5.1          L
+AST                      41         U/L        8 - 48             
+Platelet Count           220        x10^3/uL   150 - 410          
+
+End of report.

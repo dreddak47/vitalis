@@ -1,0 +1,7 @@
+(scanned handwritten prescription — variable stroke width)
+Patient: Synthetic Patient 1038        Age/Sex: 28/F
+Known allergy: Latex (contact dermatitis)
+Rx
+1. T. Sertraline 100mg — OD
+2. T. Metformin 500mg — 1-0-1 (with meals)
+[Signed] A. Iyer

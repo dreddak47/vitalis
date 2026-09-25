@@ -1,0 +1,22 @@
+{
+  "documentFile": "gen_radiology_22.txt",
+  "kind": "radiology_report",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "cholelithiasis"
+    },
+    {
+      "path": "conditions[0].status",
+      "expected": "suspected"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 8
+    },
+    {
+      "path": "labResults[0].unit",
+      "expected": "mm"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+GREENFIELD REGIONAL MEDICAL CENTER
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1046          Age/Sex: 54/M
+Admission: 2026-11-11       Discharge: 2026-11-11
+FINAL DIAGNOSIS:
+1. Hypothyroidism, ongoing management
+2. Allergic Rhinitis
+DISCHARGE MEDICATIONS:
+1. Tab Paracetamol 650 mg — SOS
+2. Tab Folic Acid 5 mg — OD
+3. Tab Glimepiride 2 mg — OD
+VITALS AT DISCHARGE: spo2 97 %
+FOLLOW-UP: As advised by treating physician.

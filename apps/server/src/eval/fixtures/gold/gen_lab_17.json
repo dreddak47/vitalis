@@ -1,0 +1,50 @@
+{
+  "documentFile": "gen_lab_17.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "Total Cholesterol"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 240
+    },
+    {
+      "path": "labResults[0].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "HDL Cholesterol"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 46
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "Hemoglobin A1c"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 5.5
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "LDL Cholesterol"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 86
+    },
+    {
+      "path": "labResults[4].analyte",
+      "expected": "Triglycerides"
+    },
+    {
+      "path": "labResults[4].value",
+      "expected": 114
+    }
+  ]
+}

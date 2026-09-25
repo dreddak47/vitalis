@@ -1,0 +1,9 @@
+CLARITY IMAGING CENTER
+CT CHEST — REPORT
+
+Patient: Synthetic Patient 1100            Study Date: 2025-01-07
+Referred by: Dr. S. Mehta
+
+FINDINGS: pulmonary nodule, nodule 9 mm. Remaining study unremarkable.
+
+IMPRESSION: Findings suggestive of pulmonary nodule. Recommend clinical correlation.

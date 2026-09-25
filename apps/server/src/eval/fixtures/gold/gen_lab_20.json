@@ -1,0 +1,54 @@
+{
+  "documentFile": "gen_lab_20.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "LDL Cholesterol"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 98
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "Fasting Glucose"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 92
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "Total Cholesterol"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 240
+    },
+    {
+      "path": "labResults[2].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "Hemoglobin A1c"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 4.9
+    },
+    {
+      "path": "labResults[4].analyte",
+      "expected": "Triglycerides"
+    },
+    {
+      "path": "labResults[4].value",
+      "expected": 180
+    },
+    {
+      "path": "labResults[4].flag",
+      "expected": "high"
+    }
+  ]
+}

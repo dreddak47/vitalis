@@ -1,0 +1,12 @@
+SUNGUARD HEALTH INSURANCE
+CLAIM FORM — SECTION B: DIAGNOSIS & PROCEDURE
+
+Claimant: Synthetic Patient 1153                Claim No: SG-2025-4157
+Date of Service: 2025-05-10
+
+Diagnosis Code (ICD-10): N39.0 — Urinary Tract Infection
+
+Procedure: Office visit, established patient (CPT 99213)
+
+Provider: Harborview Hospital
+Authorized Signature: ______________________

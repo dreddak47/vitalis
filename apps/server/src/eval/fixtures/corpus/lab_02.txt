@@ -1,0 +1,16 @@
+METROPOLIS PATHOLABS
+Lipid & Thyroid Profile
+
+Patient: Sample Patient C                Collected: 2026-03-02
+Ref. Physician: Dr. A. Iyer
+
+PARAMETER               RESULT     UNIT       BIO. REF. RANGE      FLAG
+Total Cholesterol        228        mg/dL      < 200                H
+LDL Cholesterol           152        mg/dL      < 100                H
+HDL Cholesterol            38        mg/dL      > 40                 L
+Triglycerides             210        mg/dL      < 150                H
+TSH (Ultrasensitive)      6.8        mIU/L      0.4 - 4.0            H
+Free T4                   1.1        ng/dL      0.8 - 1.8
+
+Interpretive comment: Dyslipidemia with subclinical hypothyroidism pattern.
+Correlate clinically.

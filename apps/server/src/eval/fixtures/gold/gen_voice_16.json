@@ -1,0 +1,14 @@
+{
+  "documentFile": "gen_voice_16.txt",
+  "kind": "voice_memo",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "joint pain"
+    },
+    {
+      "path": "vitals[0].value",
+      "expected": 99
+    }
+  ]
+}

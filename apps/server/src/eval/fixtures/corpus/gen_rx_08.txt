@@ -1,0 +1,8 @@
+Dr. L. Chen, MD
+Reg No: MED/67391                     Date: 2025-12-19
+Patient: Synthetic Patient 1029        Age/Sex: 63/F
+Rx
+1. Tab. Folic Acid 5mg — 1-0-0
+2. Tab. Montelukast 10mg — 0-0-1 (at night)
+3. Tab. Doxycycline 100mg — 1-0-1 (after food)
+[Signed] L. Chen

@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+coverage/
+.vite/
+
+# eval artifacts: mock-mode runs are integrity smoke tests, not metrics —
+# keep them out of history. Real-provider runs (fixtures/results/*.json,
+# not *_mock.json) are the citable metrics trail and should be committed.
+apps/server/src/eval/fixtures/results/*_mock.json

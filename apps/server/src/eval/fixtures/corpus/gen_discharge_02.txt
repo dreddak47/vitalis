@@ -1,0 +1,12 @@
+LAKESIDE MEDICAL CENTER
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1044          Age/Sex: 57/F
+Admission: 2025-09-23       Discharge: 2025-09-23
+FINAL DIAGNOSIS:
+1. Hyperlipidemia, ongoing management
+2. Chronic Kidney Disease Stage 3
+3. New Sulfamethoxazole allergy (rash on exposure)
+DISCHARGE MEDICATIONS:
+1. Tab Montelukast 10 mg — 0-0-1
+VITALS AT DISCHARGE: BP 149/81 mmHg
+FOLLOW-UP: As advised by treating physician.

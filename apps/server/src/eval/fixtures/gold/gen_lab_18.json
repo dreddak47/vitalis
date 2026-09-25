@@ -1,0 +1,42 @@
+{
+  "documentFile": "gen_lab_18.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "Fasting Glucose"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 91
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "Free T4"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 2.8
+    },
+    {
+      "path": "labResults[1].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "WBC Count"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 7.7
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "BUN"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 14
+    }
+  ]
+}

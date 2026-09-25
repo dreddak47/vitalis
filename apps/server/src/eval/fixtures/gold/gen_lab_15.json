@@ -1,0 +1,66 @@
+{
+  "documentFile": "gen_lab_15.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "Fasting Glucose"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 60
+    },
+    {
+      "path": "labResults[0].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "Potassium"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 2.5
+    },
+    {
+      "path": "labResults[1].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "TSH"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 5
+    },
+    {
+      "path": "labResults[2].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "AST"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 7
+    },
+    {
+      "path": "labResults[3].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[4].analyte",
+      "expected": "Hemoglobin"
+    },
+    {
+      "path": "labResults[4].value",
+      "expected": 18.6
+    },
+    {
+      "path": "labResults[4].flag",
+      "expected": "high"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Dr. L. Chen — Follow-up Visit Note
+Date: 2026-04-23                Patient: Synthetic Patient 1077 (42/M)
+
+S: Patient reports symptoms consistent with gerd. No new complaints otherwise.
+
+O: temperature 99 F. Exam otherwise unremarkable.
+
+A: GERD — active
+
+P: Start Pantoprazole 40 mg 1-0-0. Follow up in 2 weeks.

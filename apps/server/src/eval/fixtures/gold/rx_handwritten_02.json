@@ -1,0 +1,14 @@
+{
+  "documentFile": "rx_handwritten_02.txt",
+  "kind": "prescription",
+  "note": "Handwritten sample with a genuinely illegible prescriber name (partial glyphs preserved as corruption markers) so low-confidence gating has something real to catch.",
+  "fields": [
+    { "path": "medications[0].drugName", "expected": "Glimepiride" },
+    { "path": "medications[0].dose.amount", "expected": 2 },
+    { "path": "medications[0].dose.unit", "expected": "mg" },
+    { "path": "medications[0].instructions", "expected": "before breakfast" },
+    { "path": "medications[1].drugName", "expected": "Telmisartan" },
+    { "path": "medications[1].dose.amount", "expected": 40 },
+    { "path": "medications[1].frequency", "expected": "1-0-0" }
+  ]
+}

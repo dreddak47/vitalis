@@ -1,0 +1,42 @@
+{
+  "documentFile": "gen_lab_19.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "Total Cholesterol"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 165
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "HDL Cholesterol"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 34
+    },
+    {
+      "path": "labResults[1].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "LDL Cholesterol"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 86
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "Triglycerides"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 102
+    }
+  ]
+}

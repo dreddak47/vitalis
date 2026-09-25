@@ -1,0 +1,13 @@
+ST. ANNE'S HOSPITAL
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1057          Age/Sex: 53/M
+Admission: 2025-03-09       Discharge: 2025-03-09
+FINAL DIAGNOSIS:
+1. Osteoarthritis, ongoing management
+2. Migraine
+DISCHARGE MEDICATIONS:
+1. Tab Glimepiride 1 mg — 1-0-0
+2. Tab Montelukast 10 mg — 0-0-1
+3. Tab Amlodipine 10 mg — OD
+VITALS AT DISCHARGE: spo2 96 %
+FOLLOW-UP: As advised by treating physician.

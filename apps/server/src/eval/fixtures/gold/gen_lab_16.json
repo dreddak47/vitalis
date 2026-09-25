@@ -1,0 +1,50 @@
+{
+  "documentFile": "gen_lab_16.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "WBC Count"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 13.2
+    },
+    {
+      "path": "labResults[0].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "Hemoglobin"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 10.2
+    },
+    {
+      "path": "labResults[1].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "Hemoglobin A1c"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 6.7
+    },
+    {
+      "path": "labResults[2].flag",
+      "expected": "high"
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "HDL Cholesterol"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 56
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+SUNGUARD HEALTH INSURANCE
+CLAIM FORM — SECTION B: DIAGNOSIS & PROCEDURE
+
+Claimant: Synthetic Patient 1149                Claim No: SG-2025-1790
+Date of Service: 2026-12-21
+
+Diagnosis Code (ICD-10): I10 — Essential Hypertension
+
+Procedure: Office visit, established patient (CPT 99215)
+
+Provider: Riverside General Hospital
+Authorized Signature: ______________________

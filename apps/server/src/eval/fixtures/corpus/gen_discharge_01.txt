@@ -1,0 +1,13 @@
+HARBORVIEW HOSPITAL
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1043          Age/Sex: 62/M
+Admission: 2026-01-07       Discharge: 2026-01-07
+FINAL DIAGNOSIS:
+1. Allergic Rhinitis, ongoing management
+2. Hyperlipidemia
+3. New Aspirin allergy (GI upset on exposure)
+DISCHARGE MEDICATIONS:
+1. Tab Amlodipine 5 mg — 1-0-0
+2. Tab Sertraline 50 mg — OD
+VITALS AT DISCHARGE: temperature 98 F
+FOLLOW-UP: As advised by treating physician.

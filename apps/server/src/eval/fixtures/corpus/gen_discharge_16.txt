@@ -1,0 +1,11 @@
+ST. ANNE'S HOSPITAL
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1058          Age/Sex: 42/M
+Admission: 2026-10-02       Discharge: 2026-10-02
+FINAL DIAGNOSIS:
+1. Iron Deficiency Anemia, ongoing management
+2. Osteoarthritis
+DISCHARGE MEDICATIONS:
+1. Tab Sertraline 100 mg — OD
+VITALS AT DISCHARGE: heart rate 87 bpm
+FOLLOW-UP: As advised by treating physician.

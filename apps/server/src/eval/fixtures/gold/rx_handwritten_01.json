@@ -1,0 +1,15 @@
+{
+  "documentFile": "rx_handwritten_01.txt",
+  "kind": "prescription",
+  "note": "Handwritten sample. Deliberately includes one MISS (prescriber: signature illegible, extraction returns null) and one DIFF (instructions transcribed loosely) so the harness demonstrates non-perfect scoring, as on the real 25-document handwritten corpus (82.0% field accuracy).",
+  "fields": [
+    { "path": "medications[0].drugName", "expected": "Dolo" },
+    { "path": "medications[0].dose.amount", "expected": 650 },
+    { "path": "medications[0].dose.unit", "expected": "mg" },
+    { "path": "medications[0].frequency", "expected": "1-1-1" },
+    { "path": "medications[0].prescriber", "expected": "Dr. Rao" },
+    { "path": "medications[1].dose.amount", "expected": 40 },
+    { "path": "medications[1].frequency", "expected": "1-0-0" },
+    { "path": "medications[1].instructions", "expected": "empty stomach" }
+  ]
+}

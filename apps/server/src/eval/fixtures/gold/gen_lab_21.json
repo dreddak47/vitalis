@@ -1,0 +1,62 @@
+{
+  "documentFile": "gen_lab_21.txt",
+  "kind": "lab_report",
+  "fields": [
+    {
+      "path": "labResults[0].analyte",
+      "expected": "BUN"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 6
+    },
+    {
+      "path": "labResults[0].flag",
+      "expected": "low"
+    },
+    {
+      "path": "labResults[1].analyte",
+      "expected": "TSH"
+    },
+    {
+      "path": "labResults[1].value",
+      "expected": 2.2
+    },
+    {
+      "path": "labResults[2].analyte",
+      "expected": "ALT"
+    },
+    {
+      "path": "labResults[2].value",
+      "expected": 20
+    },
+    {
+      "path": "labResults[3].analyte",
+      "expected": "Platelet Count"
+    },
+    {
+      "path": "labResults[3].value",
+      "expected": 166
+    },
+    {
+      "path": "labResults[4].analyte",
+      "expected": "AST"
+    },
+    {
+      "path": "labResults[4].value",
+      "expected": 19
+    },
+    {
+      "path": "labResults[5].analyte",
+      "expected": "HDL Cholesterol"
+    },
+    {
+      "path": "labResults[5].value",
+      "expected": 34
+    },
+    {
+      "path": "labResults[5].flag",
+      "expected": "low"
+    }
+  ]
+}

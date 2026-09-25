@@ -1,0 +1,12 @@
+RIVERSIDE GENERAL HOSPITAL
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1065          Age/Sex: 47/F
+Admission: 2025-06-01       Discharge: 2025-06-01
+FINAL DIAGNOSIS:
+1. Asthma, ongoing management
+2. GERD
+DISCHARGE MEDICATIONS:
+1. Tab Glimepiride 1 mg — OD
+2. Tab Atorvastatin 10 mg — 0-0-1
+VITALS AT DISCHARGE: temperature 100.8 F
+FOLLOW-UP: As advised by treating physician.

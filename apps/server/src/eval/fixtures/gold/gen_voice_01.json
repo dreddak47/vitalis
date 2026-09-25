@@ -1,0 +1,14 @@
+{
+  "documentFile": "gen_voice_01.txt",
+  "kind": "voice_memo",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "shortness of breath"
+    },
+    {
+      "path": "vitals[0].value",
+      "expected": 98.3
+    }
+  ]
+}

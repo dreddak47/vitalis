@@ -1,0 +1,22 @@
+{
+  "documentFile": "gen_radiology_23.txt",
+  "kind": "radiology_report",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "L4-L5 disc bulge"
+    },
+    {
+      "path": "conditions[0].status",
+      "expected": "suspected"
+    },
+    {
+      "path": "labResults[0].value",
+      "expected": 5
+    },
+    {
+      "path": "labResults[0].unit",
+      "expected": "mm"
+    }
+  ]
+}

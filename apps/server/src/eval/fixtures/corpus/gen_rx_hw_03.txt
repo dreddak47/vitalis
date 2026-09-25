@@ -1,0 +1,7 @@
+(scanned handwritten prescription — variable stroke width)
+Patient: Synthetic Patient 1037        Age/Sex: 67/M
+Rx
+1. T. Amoxicillin 500mg — 1-1-1 (after food)
+2. T. Sertraline 50mg — 1-0-0
+3. T. Glimepiride 2mg — 1-0-0 (before breakfast)
+[Signed] K. Sharma

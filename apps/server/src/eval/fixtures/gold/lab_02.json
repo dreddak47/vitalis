@@ -1,0 +1,22 @@
+{
+  "documentFile": "lab_02.txt",
+  "kind": "lab_report",
+  "fields": [
+    { "path": "labResults[0].analyte", "expected": "Total Cholesterol" },
+    { "path": "labResults[0].value", "expected": 228 },
+    { "path": "labResults[0].flag", "expected": "high" },
+    { "path": "labResults[1].analyte", "expected": "LDL Cholesterol" },
+    { "path": "labResults[1].value", "expected": 152 },
+    { "path": "labResults[1].referenceHigh", "expected": 100 },
+    { "path": "labResults[2].analyte", "expected": "HDL Cholesterol" },
+    { "path": "labResults[2].value", "expected": 38 },
+    { "path": "labResults[2].flag", "expected": "low" },
+    { "path": "labResults[3].analyte", "expected": "Triglycerides" },
+    { "path": "labResults[3].value", "expected": 210 },
+    { "path": "labResults[4].analyte", "expected": "TSH" },
+    { "path": "labResults[4].value", "expected": 6.8 },
+    { "path": "labResults[4].flag", "expected": "high" },
+    { "path": "labResults[5].analyte", "expected": "Free T4" },
+    { "path": "labResults[5].value", "expected": 1.1 }
+  ]
+}

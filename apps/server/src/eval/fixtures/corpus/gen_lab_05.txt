@@ -1,0 +1,12 @@
+METROPOLIS PATHLABS — FINAL REPORT
+Patient: Synthetic Patient 1004       Collected: 2025-02-20
+
+Test                       Result      Units      Reference          Flag
+Fasting Glucose          119        mg/dL      70 - 99            H
+Triglycerides            118        mg/dL      < 150              
+LDL Cholesterol          80         mg/dL      < 100              
+Hemoglobin A1c           3          %          4 - 5.6            L
+HDL Cholesterol          54         mg/dL      > 40               
+Total Cholesterol        164        mg/dL      < 200              
+
+End of report.

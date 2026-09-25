@@ -1,0 +1,12 @@
+RIVERSIDE GENERAL HOSPITAL
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1059          Age/Sex: 45/F
+Admission: 2025-09-20       Discharge: 2025-09-20
+FINAL DIAGNOSIS:
+1. Major Depressive Disorder, ongoing management
+2. Osteoarthritis
+3. New Sulfamethoxazole allergy (rash on exposure)
+DISCHARGE MEDICATIONS:
+1. Tab Pantoprazole 40 mg — 1-0-0
+VITALS AT DISCHARGE: BP 124/100 mmHg
+FOLLOW-UP: As advised by treating physician.

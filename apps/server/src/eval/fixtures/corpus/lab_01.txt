@@ -1,0 +1,11 @@
+CITY DIAGNOSTICS — FINAL REPORT
+Patient: Sample Patient B       Collected: 2026-01-20
+
+Test                       Result      Units      Reference
+Hemoglobin A1c             7.2         %          4.0 - 5.6      H
+Fasting Glucose            132         mg/dL      70 - 99        H
+LDL Cholesterol            118         mg/dL      0 - 100        H
+HDL Cholesterol            44          mg/dL      > 40
+TSH                        2.1         mIU/L      0.4 - 4.0
+
+End of report.

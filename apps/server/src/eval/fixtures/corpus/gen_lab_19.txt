@@ -1,0 +1,10 @@
+NORTHVIEW DIAGNOSTICS — FINAL REPORT
+Patient: Synthetic Patient 1018       Collected: 2025-05-25
+
+Test                       Result      Units      Reference          Flag
+Total Cholesterol        165        mg/dL      < 200              
+HDL Cholesterol          34         mg/dL      > 40               L
+LDL Cholesterol          86         mg/dL      < 100              
+Triglycerides            102        mg/dL      < 150              
+
+End of report.

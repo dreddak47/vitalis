@@ -1,0 +1,10 @@
+CITY DIAGNOSTICS — FINAL REPORT
+Patient: Synthetic Patient 1017       Collected: 2025-05-24
+
+Test                       Result      Units      Reference          Flag
+Fasting Glucose          91         mg/dL      70 - 99            
+Free T4                  2.8        ng/dL      0.8 - 1.8          H
+WBC Count                7.7        x10^3/uL   4 - 11             
+BUN                      14         mg/dL      7 - 20             
+
+End of report.

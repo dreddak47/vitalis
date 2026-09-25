@@ -1,0 +1,12 @@
+ST. ANNE'S HOSPITAL
+DISCHARGE SUMMARY
+Patient: Synthetic Patient 1051          Age/Sex: 76/M
+Admission: 2026-06-02       Discharge: 2026-06-02
+FINAL DIAGNOSIS:
+1. Chronic Kidney Disease Stage 3, ongoing management
+2. Essential Hypertension
+3. New Latex allergy (contact dermatitis on exposure)
+DISCHARGE MEDICATIONS:
+1. Tab Paracetamol 650 mg — SOS
+VITALS AT DISCHARGE: BP 153/99 mmHg
+FOLLOW-UP: As advised by treating physician.

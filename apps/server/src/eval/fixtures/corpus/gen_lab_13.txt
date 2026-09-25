@@ -1,0 +1,10 @@
+METROPOLIS PATHLABS — FINAL REPORT
+Patient: Synthetic Patient 1012       Collected: 2026-09-16
+
+Test                       Result      Units      Reference          Flag
+HDL Cholesterol          34         mg/dL      > 40               L
+Hemoglobin A1c           6.7        %          4 - 5.6            H
+Triglycerides            114        mg/dL      < 150              
+Total Cholesterol        187        mg/dL      < 200              
+
+End of report.

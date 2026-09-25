@@ -1,0 +1,54 @@
+{
+  "documentFile": "gen_rx_11.txt",
+  "kind": "prescription",
+  "fields": [
+    {
+      "path": "medications[0].drugName",
+      "expected": "Losartan"
+    },
+    {
+      "path": "medications[0].dose.amount",
+      "expected": 100
+    },
+    {
+      "path": "medications[0].dose.unit",
+      "expected": "mg"
+    },
+    {
+      "path": "medications[0].frequency",
+      "expected": "OD"
+    },
+    {
+      "path": "medications[1].drugName",
+      "expected": "Amlodipine"
+    },
+    {
+      "path": "medications[1].dose.amount",
+      "expected": 5
+    },
+    {
+      "path": "medications[1].dose.unit",
+      "expected": "mg"
+    },
+    {
+      "path": "medications[1].frequency",
+      "expected": "OD"
+    },
+    {
+      "path": "medications[1].instructions",
+      "expected": "morning"
+    },
+    {
+      "path": "allergies[0].substance",
+      "expected": "Ibuprofen"
+    },
+    {
+      "path": "allergies[0].reaction",
+      "expected": "hives"
+    },
+    {
+      "path": "medications[0].prescriber",
+      "expected": "Dr. R. Fernandes"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "documentFile": "gen_rx_hw_05.txt",
+  "kind": "prescription",
+  "fields": [
+    {
+      "path": "medications[0].drugName",
+      "expected": "Paracetamol"
+    },
+    {
+      "path": "medications[0].dose.amount",
+      "expected": 650
+    },
+    {
+      "path": "medications[0].dose.unit",
+      "expected": "mg"
+    },
+    {
+      "path": "medications[0].instructions",
+      "expected": "as needed for pain"
+    },
+    {
+      "path": "medications[1].drugName",
+      "expected": "Telmisartan"
+    },
+    {
+      "path": "medications[1].dose.amount",
+      "expected": 80
+    },
+    {
+      "path": "medications[1].dose.unit",
+      "expected": "mg"
+    },
+    {
+      "path": "medications[2].drugName",
+      "expected": "Levothyroxine"
+    },
+    {
+      "path": "medications[2].dose.amount",
+      "expected": 50
+    },
+    {
+      "path": "medications[2].dose.unit",
+      "expected": "mcg"
+    },
+    {
+      "path": "medications[2].instructions",
+      "expected": "empty stomach"
+    }
+  ]
+}

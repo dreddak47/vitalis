@@ -1,0 +1,10 @@
+{
+  "documentFile": "gen_voice_21.txt",
+  "kind": "voice_memo",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "dizziness"
+    }
+  ]
+}

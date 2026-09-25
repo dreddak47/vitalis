@@ -1,0 +1,9 @@
+CLARITY IMAGING CENTER
+CT ABDOMEN — REPORT
+
+Patient: Synthetic Patient 1104            Study Date: 2025-12-16
+Referred by: Dr. L. Chen
+
+FINDINGS: cholelithiasis, largest calculus 7 mm. Remaining study unremarkable.
+
+IMPRESSION: Findings suggestive of cholelithiasis. Recommend clinical correlation.

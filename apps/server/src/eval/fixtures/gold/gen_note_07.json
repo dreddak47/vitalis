@@ -1,0 +1,38 @@
+{
+  "documentFile": "gen_note_07.txt",
+  "kind": "doctor_note",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "Type 2 Diabetes Mellitus"
+    },
+    {
+      "path": "conditions[0].status",
+      "expected": "active"
+    },
+    {
+      "path": "vitals[0].value",
+      "expected": 137
+    },
+    {
+      "path": "medications[0].drugName",
+      "expected": "Amoxicillin"
+    },
+    {
+      "path": "medications[0].dose.amount",
+      "expected": 500
+    },
+    {
+      "path": "vitals[0].valueSecondary",
+      "expected": 66
+    },
+    {
+      "path": "allergies[0].substance",
+      "expected": "Latex"
+    },
+    {
+      "path": "allergies[0].reaction",
+      "expected": "contact dermatitis"
+    }
+  ]
+}

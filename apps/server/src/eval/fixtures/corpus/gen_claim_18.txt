@@ -1,0 +1,13 @@
+SUNGUARD HEALTH INSURANCE
+CLAIM FORM — SECTION B: DIAGNOSIS & PROCEDURE
+
+Claimant: Synthetic Patient 1152                Claim No: SG-2026-6586
+Date of Service: 2025-02-13
+
+Diagnosis Code (ICD-10): N18.3 — Chronic Kidney Disease Stage 3
+Diagnosis Code (ICD-10): G43.909 — Migraine
+
+Procedure: Office visit, established patient (CPT 99213)
+
+Provider: Lakeside Medical Center
+Authorized Signature: ______________________

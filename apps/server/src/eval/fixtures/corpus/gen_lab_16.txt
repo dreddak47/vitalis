@@ -1,0 +1,10 @@
+METROPOLIS PATHLABS — FINAL REPORT
+Patient: Synthetic Patient 1015       Collected: 2025-10-27
+
+Test                       Result      Units      Reference          Flag
+WBC Count                13.2       x10^3/uL   4 - 11             H
+Hemoglobin               10.2       g/dL       12 - 15.5          L
+Hemoglobin A1c           6.7        %          4 - 5.6            H
+HDL Cholesterol          56         mg/dL      > 40               
+
+End of report.

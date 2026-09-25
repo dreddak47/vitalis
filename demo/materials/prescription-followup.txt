@@ -1,0 +1,28 @@
+Dr. R. Kulkarni, MD (Internal Medicine)
+Reg No: MH/41207                              Date: 2026-04-27
+
+Patient: Sample Patient A        Age/Sex: 54/M
+
+Follow-up for T2DM + HTN. FBS 142, HbA1c 7.8% (Apr 2 report reviewed).
+Reports episodic afternoon dizziness since Glimepiride started, and
+nocturnal burning in both feet x 2 weeks. O/E: BP 130/84 mmHg,
+monofilament test reduced sensation both soles.
+
+Impression:
+1. T2DM, suboptimal control (E11.65)
+2. Probable early diabetic peripheral neuropathy (E11.42)
+3. Suspected hypoglycemic episodes — likely Glimepiride-related
+
+Rx
+1. T. Glimepiride 1 mg — REDUCED to 0.5-0-0 before breakfast x 30 days
+2. C. Pregabalin 75 mg — 0-0-1 at night x 30 days (for neuropathy)
+3. T. Metformin 500 mg — 1-0-1 after food (continue)
+4. T. Amlodipine 5 mg — 1-0-0 (continue)
+5. T. Atorvastatin 20 mg — 0-0-1 HS (continue)
+
+Advice:
+- Home glucose log daily, note any symptoms with readings.
+- Foot care instructions given (checked footwear, daily inspection).
+- Review in 4 weeks with RFT, urine ACR. Earlier if dizziness recurs.
+
+[Signed] R. Kulkarni

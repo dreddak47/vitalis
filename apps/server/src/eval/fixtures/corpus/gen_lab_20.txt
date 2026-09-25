@@ -1,0 +1,11 @@
+NORTHVIEW DIAGNOSTICS — FINAL REPORT
+Patient: Synthetic Patient 1019       Collected: 2025-08-19
+
+Test                       Result      Units      Reference          Flag
+LDL Cholesterol          98         mg/dL      < 100              
+Fasting Glucose          92         mg/dL      70 - 99            
+Total Cholesterol        240        mg/dL      < 200              H
+Hemoglobin A1c           4.9        %          4 - 5.6            
+Triglycerides            180        mg/dL      < 150              H
+
+End of report.

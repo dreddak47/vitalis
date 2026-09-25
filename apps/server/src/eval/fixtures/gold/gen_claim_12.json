@@ -1,0 +1,14 @@
+{
+  "documentFile": "gen_claim_12.txt",
+  "kind": "insurance_claim",
+  "fields": [
+    {
+      "path": "conditions[0].name",
+      "expected": "Asthma"
+    },
+    {
+      "path": "conditions[0].icd10",
+      "expected": "J45.909"
+    }
+  ]
+}

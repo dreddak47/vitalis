@@ -1,0 +1,11 @@
+MERIDIAN LABS — FINAL REPORT
+Patient: Synthetic Patient 1016       Collected: 2026-06-16
+
+Test                       Result      Units      Reference          Flag
+Total Cholesterol        240        mg/dL      < 200              H
+HDL Cholesterol          46         mg/dL      > 40               
+Hemoglobin A1c           5.5        %          4 - 5.6            
+LDL Cholesterol          86         mg/dL      < 100              
+Triglycerides            114        mg/dL      < 150              
+
+End of report.

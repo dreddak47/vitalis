@@ -1,0 +1,12 @@
+SUNGUARD HEALTH INSURANCE
+CLAIM FORM — SECTION B: DIAGNOSIS & PROCEDURE
+
+Claimant: Synthetic Patient 1143                Claim No: SG-2025-3800
+Date of Service: 2025-01-10
+
+Diagnosis Code (ICD-10): E11.9 — Type 2 Diabetes Mellitus
+
+Procedure: Office visit, established patient (CPT 99213)
+
+Provider: Harborview Hospital
+Authorized Signature: ______________________

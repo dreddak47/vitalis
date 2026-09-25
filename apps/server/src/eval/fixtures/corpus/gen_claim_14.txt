@@ -1,0 +1,13 @@
+SUNGUARD HEALTH INSURANCE
+CLAIM FORM — SECTION B: DIAGNOSIS & PROCEDURE
+
+Claimant: Synthetic Patient 1148                Claim No: SG-2026-7523
+Date of Service: 2025-08-19
+
+Diagnosis Code (ICD-10): E11.9 — Type 2 Diabetes Mellitus
+Diagnosis Code (ICD-10): G43.909 — Migraine
+
+Procedure: Office visit, established patient (CPT 99213)
+
+Provider: Harborview Hospital
+Authorized Signature: ______________________

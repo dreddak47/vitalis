@@ -1,0 +1,9 @@
+CLARITY IMAGING CENTER
+ULTRASOUND ABDOMEN — REPORT
+
+Patient: Synthetic Patient 1106            Study Date: 2025-07-18
+Referred by: Dr. L. Chen
+
+FINDINGS: hepatic steatosis, liver span 2.3 cm. Remaining study unremarkable.
+
+IMPRESSION: Findings suggestive of hepatic steatosis. Recommend clinical correlation.

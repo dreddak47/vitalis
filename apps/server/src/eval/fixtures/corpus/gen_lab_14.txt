@@ -1,0 +1,11 @@
+MERIDIAN LABS — FINAL REPORT
+Patient: Synthetic Patient 1013       Collected: 2026-07-02
+
+Test                       Result      Units      Reference          Flag
+HDL Cholesterol          42         mg/dL      > 40               
+Triglycerides            180        mg/dL      < 150              H
+LDL Cholesterol          120        mg/dL      < 100              H
+Hemoglobin A1c           4.8        %          4 - 5.6            
+Fasting Glucose          60         mg/dL      70 - 99            L
+
+End of report.

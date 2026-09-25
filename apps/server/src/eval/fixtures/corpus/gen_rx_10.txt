@@ -1,0 +1,9 @@
+Dr. R. Fernandes, MD
+Reg No: MED/67172                     Date: 2026-09-12
+Patient: Synthetic Patient 1031        Age/Sex: 36/M
+Known allergy: Sulfamethoxazole (rash)
+Rx
+1. Tab. Paracetamol 650mg — SOS (as needed for fever)
+2. Tab. Omeprazole 20mg — OD (before breakfast)
+3. Tab. Folic Acid 5mg — OD
+[Signed] R. Fernandes

@@ -1,0 +1,22 @@
+{
+  "name": "vitalis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Vitalis — privacy-first personal health records with domain-aware AI extraction and generative, preference-based health reports.",
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:server": "npm run dev -w @vitalis/server",
+    "dev:web": "npm run dev -w @vitalis/web",
+    "build": "npm run build -w @vitalis/shared && npm run build -w @vitalis/server && npm run build -w @vitalis/web",
+    "typecheck": "npm run typecheck -w @vitalis/shared && npm run typecheck -w @vitalis/server && npm run typecheck -w @vitalis/web",
+    "test": "npm run test -w @vitalis/server",
+    "eval": "npm run eval -w @vitalis/server"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
