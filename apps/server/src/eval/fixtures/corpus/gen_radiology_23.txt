@@ -1,9 +1,0 @@
-METRO DIAGNOSTIC IMAGING
-MRI LUMBAR SPINE — REPORT
-
-Patient: Synthetic Patient 1111            Study Date: 2025-08-10
-Referred by: Dr. R. Fernandes
-
-FINDINGS: L4-L5 disc bulge, disc bulge 5 mm. Remaining study unremarkable.
-
-IMPRESSION: Findings suggestive of L4-L5 disc bulge. Recommend clinical correlation.

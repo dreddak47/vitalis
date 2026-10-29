@@ -1,9 +1,0 @@
-SUMMIT RADIOLOGY
-ULTRASOUND ABDOMEN — REPORT
-
-Patient: Synthetic Patient 1103            Study Date: 2025-09-27
-Referred by: Dr. A. Iyer
-
-FINDINGS: hepatic steatosis, liver span 8.9 cm. Remaining study unremarkable.
-
-IMPRESSION: Findings suggestive of hepatic steatosis. Recommend clinical correlation.

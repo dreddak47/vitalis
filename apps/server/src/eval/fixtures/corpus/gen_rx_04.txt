@@ -1,7 +1,0 @@
-Dr. M. Rao, MD
-Reg No: MED/62508                     Date: 2025-01-22
-Patient: Synthetic Patient 1025        Age/Sex: 37/F
-Rx
-1. Tab. Metformin 1000mg — 1-0-1 (with meals)
-2. Tab. Sertraline 100mg — OD
-[Signed] M. Rao

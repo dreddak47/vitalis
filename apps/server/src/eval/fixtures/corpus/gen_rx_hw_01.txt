@@ -1,8 +1,0 @@
-(scanned handwritten prescription — variable stroke width)
-Patient: Synthetic Patient 1035        Age/Sex: 78/F
-Known allergy: Shellfish (swelling)
-Rx
-1. T. Omeprazole 20mg — 1-0-0 (before breakfast)
-2. T. Atorvastatin 10mg — HS
-3. T. Paracetamol 500mg — SOS (as needed for fever)
-[Signed] M. Rao

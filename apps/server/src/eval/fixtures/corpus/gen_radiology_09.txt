@@ -1,9 +1,0 @@
-METRO DIAGNOSTIC IMAGING
-CT ABDOMEN — REPORT
-
-Patient: Synthetic Patient 1097            Study Date: 2026-06-15
-Referred by: Dr. R. Fernandes
-
-FINDINGS: cholelithiasis, largest calculus 5 mm. Remaining study unremarkable.
-
-IMPRESSION: Findings suggestive of cholelithiasis. Recommend clinical correlation.

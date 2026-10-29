@@ -1,9 +1,0 @@
-CLARITY IMAGING CENTER
-CT ABDOMEN — REPORT
-
-Patient: Synthetic Patient 1102            Study Date: 2026-02-08
-Referred by: Dr. J. Okafor
-
-FINDINGS: cholelithiasis, largest calculus 13 mm. Remaining study unremarkable.
-
-IMPRESSION: Findings suggestive of cholelithiasis. Recommend clinical correlation.

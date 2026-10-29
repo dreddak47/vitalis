@@ -1,9 +1,0 @@
-Dr. R. Fernandes, MD
-Reg No: MED/92645                     Date: 2025-03-20
-Patient: Synthetic Patient 1023        Age/Sex: 46/M
-Known allergy: Shellfish (swelling)
-Rx
-1. Tab. Levothyroxine 50mcg — 1-0-0 (empty stomach)
-2. Tab. Amlodipine 5mg — OD
-3. Tab. Pantoprazole 40mg — 1-0-0 (before breakfast)
-[Signed] R. Fernandes

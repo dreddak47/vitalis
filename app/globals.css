@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+}
+
+:root { color-scheme: light; }
+
+@media print {
+  header, nav, footer, .no-print { display: none !important; }
+  main { padding: 0 !important; max-width: none !important; }
+  body { background: white !important; }
+}

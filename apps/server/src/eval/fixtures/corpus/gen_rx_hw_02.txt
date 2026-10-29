@@ -1,6 +1,0 @@
-(scanned handwritten prescription — variable stroke width)
-Patient: Synthetic Patient 1036        Age/Sex: 66/F
-Rx
-1. T. Montelukast 10mg — HS (at night)
-2. T. Telmisartan 40mg — 1-0-0
-[Signed] A. Iyer

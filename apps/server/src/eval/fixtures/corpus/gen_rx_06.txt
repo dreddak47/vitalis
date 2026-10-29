@@ -1,8 +1,0 @@
-Dr. Priya Nair, MD
-Reg No: MED/57027                     Date: 2026-02-15
-Patient: Synthetic Patient 1027        Age/Sex: 49/F
-Known allergy: Aspirin (GI upset)
-Rx
-1. Tab. Amlodipine 5mg — 1-0-0 (morning)
-2. Tab. Losartan 100mg — 1-0-0
-[Signed] Priya Nair

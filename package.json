@@ -2,21 +2,36 @@
   "name": "vitalis",
   "version": "0.1.0",
   "private": true,
-  "description": "Vitalis — privacy-first personal health records with domain-aware AI extraction and generative, preference-based health reports.",
-  "type": "module",
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ],
   "scripts": {
-    "dev:server": "npm run dev -w @vitalis/server",
-    "dev:web": "npm run dev -w @vitalis/web",
-    "build": "npm run build -w @vitalis/shared && npm run build -w @vitalis/server && npm run build -w @vitalis/web",
-    "typecheck": "npm run typecheck -w @vitalis/shared && npm run typecheck -w @vitalis/server && npm run typecheck -w @vitalis/web",
-    "test": "npm run test -w @vitalis/server",
-    "eval": "npm run eval -w @vitalis/server"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "seed": "tsx scripts/seed.ts",
+    "reports": "tsx scripts/make-reports.ts",
+    "eval": "tsx scripts/eval.ts"
   },
-  "engines": {
-    "node": ">=20"
+  "dependencies": {
+    "next": "16.4.3",
+    "pdfjs-dist": "^6.4.299",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "recharts": "^3.10.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "vitest": "^5.0.5"
   }
 }

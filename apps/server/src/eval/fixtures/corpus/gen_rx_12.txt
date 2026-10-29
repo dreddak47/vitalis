@@ -1,8 +1,0 @@
-Dr. K. Sharma, MD
-Reg No: MED/54535                     Date: 2026-05-15
-Patient: Synthetic Patient 1033        Age/Sex: 68/F
-Rx
-1. Tab. Levothyroxine 75mcg — 1-0-0 (empty stomach)
-2. Tab. Metformin 1000mg — BID (with meals)
-3. Tab. Telmisartan 80mg — 1-0-0
-[Signed] K. Sharma

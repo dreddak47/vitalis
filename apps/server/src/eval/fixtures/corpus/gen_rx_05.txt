@@ -1,8 +1,0 @@
-Dr. R. Fernandes, MD
-Reg No: MED/39487                     Date: 2025-09-03
-Patient: Synthetic Patient 1026        Age/Sex: 72/M
-Rx
-1. Tab. Telmisartan 80mg — 1-0-0
-2. Tab. Losartan 100mg — 1-0-0
-3. Tab. Omeprazole 20mg — 1-0-0 (before breakfast)
-[Signed] R. Fernandes

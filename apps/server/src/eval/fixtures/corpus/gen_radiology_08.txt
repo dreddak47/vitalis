@@ -1,9 +1,0 @@
-METRO DIAGNOSTIC IMAGING
-CHEST X-RAY (PA VIEW) — REPORT
-
-Patient: Synthetic Patient 1096            Study Date: 2026-03-23
-Referred by: Dr. M. Rao
-
-FINDINGS: cardiomegaly, transverse cardiac diameter 9 cm. Remaining study unremarkable.
-
-IMPRESSION: Findings suggestive of cardiomegaly. Recommend clinical correlation.
